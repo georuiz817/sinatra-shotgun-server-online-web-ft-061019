@@ -10,5 +10,9 @@ get '/' do
     "Welcome to your app!!!! I BUILT THIS!"
   end
 
+get '/' do
+  "Started my server using Shotgun!"
+end
+
 
 end
